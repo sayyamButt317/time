@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646253510072",
+    "firebase_url": "https://time-managment-83803-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "time-managment-83803",
+    "storage_bucket": "time-managment-83803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646253510072:android:b29b7127bdcce61df8234d",
+        "android_client_info": {
+          "package_name": "com.example.time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646253510072-s0ld1ksipum3a0oiq6o8lljtsl3bactc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAizk8FI-kgJASwM0JWTIQ_oMnoe0YxOyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646253510072-s0ld1ksipum3a0oiq6o8lljtsl3bactc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
